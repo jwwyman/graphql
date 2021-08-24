@@ -1,0 +1,1190 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -83.7432318,
+                        42.2778195,
+                        0
+                    ],
+                    [
+                        -83.7407066,
+                        42.2778208,
+                        0
+                    ],
+                    [
+                        -83.7408411,
+                        42.2802536,
+                        0
+                    ],
+                    [
+                        -83.746081,
+                        42.2804168,
+                        0
+                    ],
+                    [
+                        -83.7462038,
+                        42.2778453,
+                        0
+                    ],
+                    [
+                        -83.74332,
+                        42.2778117,
+                        0
+                    ],
+                    [
+                        -83.7432342,
+                        42.2778911,
+                        0
+                    ],
+                    [
+                        -83.7432113,
+                        42.2793907,
+                        0
+                    ],
+                    [
+                        -83.7420048,
+                        42.2793608,
+                        0
+                    ],
+                    [
+                        -83.7408032,
+                        42.2793608,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "ARB ODS Drive Path",
+                "styleUrl": "#line-0F9D58-5844-nodesc",
+                "styleHash": "-3c563d95",
+                "styleMapHash": {
+                    "normal": "#line-0F9D58-5844-nodesc-normal",
+                    "highlight": "#line-0F9D58-5844-nodesc-highlight"
+                },
+                "stroke": "#0f9d58",
+                "stroke-opacity": 1,
+                "stroke-width": 5.844
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -83.7510814,
+                        42.2794719,
+                        0
+                    ],
+                    [
+                        -83.7510274,
+                        42.2805831,
+                        0
+                    ],
+                    [
+                        -83.746081,
+                        42.2804168,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "ARB ODS Drive Path",
+                "styleUrl": "#line-0F9D58-5844-nodesc",
+                "styleHash": "-3c563d95",
+                "styleMapHash": {
+                    "normal": "#line-0F9D58-5844-nodesc-normal",
+                    "highlight": "#line-0F9D58-5844-nodesc-highlight"
+                },
+                "stroke": "#0f9d58",
+                "stroke-opacity": 1,
+                "stroke-width": 5.844
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -83.7498047,
+                        42.2805277,
+                        0
+                    ],
+                    [
+                        -83.7498767,
+                        42.2790976,
+                        0
+                    ],
+                    [
+                        -83.7498552,
+                        42.2787801,
+                        0
+                    ],
+                    [
+                        -83.7499196,
+                        42.278407,
+                        0
+                    ],
+                    [
+                        -83.7499358,
+                        42.278008,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "ARB ODS Drive Path",
+                "styleUrl": "#line-0F9D58-5844-nodesc",
+                "styleHash": "-3c563d95",
+                "styleMapHash": {
+                    "normal": "#line-0F9D58-5844-nodesc-normal",
+                    "highlight": "#line-0F9D58-5844-nodesc-highlight"
+                },
+                "stroke": "#0f9d58",
+                "stroke-opacity": 1,
+                "stroke-width": 5.844
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -83.7486901,
+                        42.2779446,
+                        0
+                    ],
+                    [
+                        -83.7484557,
+                        42.2832569,
+                        0
+                    ],
+                    [
+                        -83.7485548,
+                        42.2809801,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "ARB ODS Drive Path",
+                "styleUrl": "#line-0F9D58-5844-nodesc",
+                "styleHash": "-3c563d95",
+                "styleMapHash": {
+                    "normal": "#line-0F9D58-5844-nodesc-normal",
+                    "highlight": "#line-0F9D58-5844-nodesc-highlight"
+                },
+                "stroke": "#0f9d58",
+                "stroke-opacity": 1,
+                "stroke-width": 5.844
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -83.7474211,
+                        42.2779129,
+                        0
+                    ],
+                    [
+                        -83.7472249,
+                        42.2823148,
+                        0
+                    ],
+                    [
+                        -83.7470341,
+                        42.2863215,
+                        0
+                    ],
+                    [
+                        -83.7469912,
+                        42.2865358,
+                        0
+                    ],
+                    [
+                        -83.7457653,
+                        42.2884809,
+                        0
+                    ],
+                    [
+                        -83.7444778,
+                        42.2880364,
+                        0
+                    ],
+                    [
+                        -83.7456393,
+                        42.2864881,
+                        0
+                    ],
+                    [
+                        -83.7457466,
+                        42.2863135,
+                        0
+                    ],
+                    [
+                        -83.746081,
+                        42.2804168,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "ARB ODS Drive Path",
+                "styleUrl": "#line-0F9D58-5844-nodesc",
+                "styleHash": "-3c563d95",
+                "styleMapHash": {
+                    "normal": "#line-0F9D58-5844-nodesc-normal",
+                    "highlight": "#line-0F9D58-5844-nodesc-highlight"
+                },
+                "stroke": "#0f9d58",
+                "stroke-opacity": 1,
+                "stroke-width": 5.844
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -83.7484021,
+                        42.2832559,
+                        0
+                    ],
+                    [
+                        -83.7459203,
+                        42.2831937,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "ARB ODS Drive Path",
+                "styleUrl": "#line-0F9D58-5844-nodesc",
+                "styleHash": "-3c563d95",
+                "styleMapHash": {
+                    "normal": "#line-0F9D58-5844-nodesc-normal",
+                    "highlight": "#line-0F9D58-5844-nodesc-highlight"
+                },
+                "stroke": "#0f9d58",
+                "stroke-opacity": 1,
+                "stroke-width": 5.844
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -83.7403616,
+                        42.2614142,
+                        0
+                    ],
+                    [
+                        -83.7403576,
+                        42.2604245,
+                        0
+                    ],
+                    [
+                        -83.739156,
+                        42.2605198,
+                        0
+                    ],
+                    [
+                        -83.7373106,
+                        42.2605834,
+                        0
+                    ],
+                    [
+                        -83.7373361,
+                        42.2614777,
+                        0
+                    ],
+                    [
+                        -83.7402288,
+                        42.2614091,
+                        0
+                    ],
+                    [
+                        -83.7404649,
+                        42.2615838,
+                        0
+                    ],
+                    [
+                        -83.7404863,
+                        42.2658079,
+                        0
+                    ],
+                    [
+                        -83.7405118,
+                        42.2662814,
+                        0
+                    ],
+                    [
+                        -83.7405118,
+                        42.2683774,
+                        0
+                    ],
+                    [
+                        -83.7405225,
+                        42.2687029,
+                        0
+                    ],
+                    [
+                        -83.7405547,
+                        42.2690681,
+                        0
+                    ],
+                    [
+                        -83.7407304,
+                        42.277617,
+                        0
+                    ],
+                    [
+                        -83.7407066,
+                        42.2778208,
+                        0
+                    ],
+                    [
+                        -83.7407411,
+                        42.2775675,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "ARB ODS Drive Path",
+                "styleUrl": "#line-0F9D58-5844-nodesc",
+                "styleHash": "-3c563d95",
+                "styleMapHash": {
+                    "normal": "#line-0F9D58-5844-nodesc-normal",
+                    "highlight": "#line-0F9D58-5844-nodesc-highlight"
+                },
+                "stroke": "#0f9d58",
+                "stroke-opacity": 1,
+                "stroke-width": 5.844
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.7459176,
+                    42.279543,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stop",
+                "styleUrl": "#icon-1502-0097A7",
+                "styleHash": "6057b4d0",
+                "styleMapHash": {
+                    "normal": "#icon-1502-0097A7-normal",
+                    "highlight": "#icon-1502-0097A7-highlight"
+                },
+                "description": "spark-wb (in loading zone)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.7459757,
+                    42.2840345,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stop",
+                "styleUrl": "#icon-1502-0097A7",
+                "styleHash": "6057b4d0",
+                "styleMapHash": {
+                    "normal": "#icon-1502-0097A7-normal",
+                    "highlight": "#icon-1502-0097A7-highlight"
+                },
+                "description": "kerrytown-sb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.7470674,
+                    42.2843778,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stop",
+                "styleUrl": "#icon-1502-0097A7",
+                "styleHash": "6057b4d0",
+                "styleMapHash": {
+                    "normal": "#icon-1502-0097A7-normal",
+                    "highlight": "#icon-1502-0097A7-highlight"
+                },
+                "description": "kerrytown-nb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.746032,
+                    42.2879396,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stop",
+                "styleUrl": "#icon-1502-0097A7",
+                "styleHash": "6057b4d0",
+                "styleMapHash": {
+                    "normal": "#icon-1502-0097A7-normal",
+                    "highlight": "#icon-1502-0097A7-highlight"
+                },
+                "description": "amtrak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.7407053,
+                    42.2782119,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stop",
+                "styleUrl": "#icon-1502-0097A7",
+                "styleHash": "6057b4d0",
+                "styleMapHash": {
+                    "normal": "#icon-1502-0097A7-normal",
+                    "highlight": "#icon-1502-0097A7-highlight"
+                },
+                "description": "um"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.7378008,
+                    42.2614559,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stop To-Do",
+                "styleUrl": "#icon-1502-E65100",
+                "styleHash": "4db3af5e",
+                "styleMapHash": {
+                    "normal": "#icon-1502-E65100-normal",
+                    "highlight": "#icon-1502-E65100-highlight"
+                },
+                "description": "4M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.7485208,
+                    42.2831205,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stop",
+                "styleUrl": "#icon-1502-0097A7",
+                "styleHash": "6057b4d0",
+                "styleMapHash": {
+                    "normal": "#icon-1502-0097A7-normal",
+                    "highlight": "#icon-1502-0097A7-highlight"
+                },
+                "description": "catherine-main"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.7472079,
+                    42.2805443,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stop To-Do",
+                "styleUrl": "#icon-1502-E65100",
+                "styleHash": "4db3af5e",
+                "styleMapHash": {
+                    "normal": "#icon-1502-E65100-normal",
+                    "highlight": "#icon-1502-E65100-highlight"
+                },
+                "description": "4th & Washington"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.7511093,
+                    42.280097,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stop To-Do",
+                "styleUrl": "#icon-1502-E65100",
+                "styleHash": "4db3af5e",
+                "styleMapHash": {
+                    "normal": "#icon-1502-E65100-normal",
+                    "highlight": "#icon-1502-E65100-highlight"
+                },
+                "description": "1st-sb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.7498346,
+                    42.2791373,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stop To-Do",
+                "styleUrl": "#icon-1502-E65100-nodesc",
+                "styleHash": "22de4cb5",
+                "styleMapHash": {
+                    "normal": "#icon-1502-E65100-nodesc-normal",
+                    "highlight": "#icon-1502-E65100-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.7494472,
+                    42.2779297,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stop To-Do",
+                "styleUrl": "#icon-1502-E65100-nodesc",
+                "styleHash": "22de4cb5",
+                "styleMapHash": {
+                    "normal": "#icon-1502-E65100-nodesc-normal",
+                    "highlight": "#icon-1502-E65100-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.7431731,
+                    42.2785111,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stop",
+                "styleUrl": "#icon-1502-0097A7",
+                "styleHash": "6057b4d0",
+                "styleMapHash": {
+                    "normal": "#icon-1502-0097A7-normal",
+                    "highlight": "#icon-1502-0097A7-highlight"
+                },
+                "description": "thompson"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.744905,
+                    42.2794113,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stop",
+                "styleUrl": "#icon-1502-0097A7",
+                "styleHash": "6057b4d0",
+                "styleMapHash": {
+                    "normal": "#icon-1502-0097A7-normal",
+                    "highlight": "#icon-1502-0097A7-highlight"
+                },
+                "description": "spark-eb (in loading zone)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.7427486,
+                    42.2802555,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stop",
+                "styleUrl": "#icon-1502-0097A7",
+                "styleHash": "6057b4d0",
+                "styleMapHash": {
+                    "normal": "#icon-1502-0097A7-normal",
+                    "highlight": "#icon-1502-0097A7-highlight"
+                },
+                "description": "Varsity EB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.7422819,
+                    42.2803428,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stop",
+                "styleUrl": "#icon-1502-0097A7",
+                "styleHash": "6057b4d0",
+                "styleMapHash": {
+                    "normal": "#icon-1502-0097A7-normal",
+                    "highlight": "#icon-1502-0097A7-highlight"
+                },
+                "description": "Varsity WB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.7428591,
+                    42.2734194,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stop",
+                "styleUrl": "#icon-1502-0097A7",
+                "styleHash": "6057b4d0",
+                "styleMapHash": {
+                    "normal": "#icon-1502-0097A7-normal",
+                    "highlight": "#icon-1502-0097A7-highlight"
+                },
+                "description": "south quad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.7395753,
+                    42.2690485,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stop",
+                "styleUrl": "#icon-1502-0097A7",
+                "styleHash": "6057b4d0",
+                "styleMapHash": {
+                    "normal": "#icon-1502-0097A7-normal",
+                    "highlight": "#icon-1502-0097A7-highlight"
+                },
+                "description": "arch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -83.7406777,
+                        42.2733003,
+                        0
+                    ],
+                    [
+                        -83.7424319,
+                        42.2733043,
+                        0
+                    ],
+                    [
+                        -83.7426894,
+                        42.2733281,
+                        0
+                    ],
+                    [
+                        -83.7428591,
+                        42.2734194,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "ARB ODS Drive Path\n",
+                "styleUrl": "#line-0F9D58-5844-nodesc",
+                "styleHash": "-3c563d95",
+                "styleMapHash": {
+                    "normal": "#line-0F9D58-5844-nodesc-normal",
+                    "highlight": "#line-0F9D58-5844-nodesc-highlight"
+                },
+                "stroke": "#0f9d58",
+                "stroke-opacity": 1,
+                "stroke-width": 5.844
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -83.7405547,
+                        42.2690681,
+                        0
+                    ],
+                    [
+                        -83.7396595,
+                        42.2691032,
+                        0
+                    ],
+                    [
+                        -83.7393806,
+                        42.2690397,
+                        0
+                    ],
+                    [
+                        -83.7394503,
+                        42.2692302,
+                        0
+                    ],
+                    [
+                        -83.7396327,
+                        42.2691349,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "ARB ODS Drive Path\n",
+                "styleUrl": "#line-0F9D58-5844-nodesc",
+                "styleHash": "-3c563d95",
+                "styleMapHash": {
+                    "normal": "#line-0F9D58-5844-nodesc-normal",
+                    "highlight": "#line-0F9D58-5844-nodesc-highlight"
+                },
+                "stroke": "#0f9d58",
+                "stroke-opacity": 1,
+                "stroke-width": 5.844
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.7380855,
+                    42.2643785,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stop",
+                "styleUrl": "#icon-1502-0097A7",
+                "styleHash": "6057b4d0",
+                "styleMapHash": {
+                    "normal": "#icon-1502-0097A7-normal",
+                    "highlight": "#icon-1502-0097A7-highlight"
+                },
+                "description": "sheehan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -83.7405036,
+                        42.264153,
+                        0
+                    ],
+                    [
+                        -83.7380574,
+                        42.2642165,
+                        0
+                    ],
+                    [
+                        -83.7380448,
+                        42.2659155,
+                        0
+                    ],
+                    [
+                        -83.7404863,
+                        42.2658079,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "ARB ODS Drive Path\n",
+                "styleUrl": "#line-0F9D58-5844-nodesc",
+                "styleHash": "-3c563d95",
+                "styleMapHash": {
+                    "normal": "#line-0F9D58-5844-nodesc-normal",
+                    "highlight": "#line-0F9D58-5844-nodesc-highlight"
+                },
+                "stroke": "#0f9d58",
+                "stroke-opacity": 1,
+                "stroke-width": 5.844
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.746234,
+                    42.278295,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stop",
+                "styleUrl": "#icon-1502-0097A7",
+                "styleHash": "6057b4d0",
+                "styleMapHash": {
+                    "normal": "#icon-1502-0097A7-normal",
+                    "highlight": "#icon-1502-0097A7-highlight"
+                },
+                "description": "bus-depot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -83.7372868,
+                        42.2605813,
+                        0
+                    ],
+                    [
+                        -83.7364959,
+                        42.2606008,
+                        0
+                    ],
+                    [
+                        -83.7361334,
+                        42.2605174,
+                        0
+                    ],
+                    [
+                        -83.7361334,
+                        42.2600489,
+                        0
+                    ],
+                    [
+                        -83.7370324,
+                        42.2600251,
+                        0
+                    ],
+                    [
+                        -83.7370163,
+                        42.2605571,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "ARB ODS Drive Path",
+                "styleUrl": "#line-0F9D58-5844-nodesc",
+                "styleHash": "-3c563d95",
+                "styleMapHash": {
+                    "normal": "#line-0F9D58-5844-nodesc-normal",
+                    "highlight": "#line-0F9D58-5844-nodesc-highlight"
+                },
+                "stroke": "#0f9d58",
+                "stroke-opacity": 1,
+                "stroke-width": 5.844
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.7366944,
+                    42.2600569,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stop",
+                "styleUrl": "#icon-1502-0097A7",
+                "styleHash": "6057b4d0",
+                "styleMapHash": {
+                    "normal": "#icon-1502-0097A7-normal",
+                    "highlight": "#icon-1502-0097A7-highlight"
+                },
+                "description": "4m-city-club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -83.7471005,
+                        42.2848606,
+                        0
+                    ],
+                    [
+                        -83.7458297,
+                        42.2848139,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "ARB ODS Drive Path",
+                "styleUrl": "#line-0F9D58-5844-nodesc",
+                "styleHash": "-3c563d95",
+                "styleMapHash": {
+                    "normal": "#line-0F9D58-5844-nodesc-normal",
+                    "highlight": "#line-0F9D58-5844-nodesc-highlight"
+                },
+                "stroke": "#0f9d58",
+                "stroke-opacity": 1,
+                "stroke-width": 5.844
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -83.743125,
+                        42.2794013,
+                        0
+                    ],
+                    [
+                        -83.7474325,
+                        42.2795213,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "ARB ODS Drive Path",
+                "styleUrl": "#line-0F9D58-5844-nodesc",
+                "styleHash": "-3c563d95",
+                "styleMapHash": {
+                    "normal": "#line-0F9D58-5844-nodesc-normal",
+                    "highlight": "#line-0F9D58-5844-nodesc-highlight"
+                },
+                "stroke": "#0f9d58",
+                "stroke-opacity": 1,
+                "stroke-width": 5.844
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -83.7510814,
+                        42.2794719,
+                        0
+                    ],
+                    [
+                        -83.7511127,
+                        42.2780551,
+                        0
+                    ],
+                    [
+                        -83.7462228,
+                        42.2778566,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "ARB ODS Drive Path",
+                "styleUrl": "#line-0F9D58-5844-nodesc",
+                "styleHash": "-3c563d95",
+                "styleMapHash": {
+                    "normal": "#line-0F9D58-5844-nodesc-normal",
+                    "highlight": "#line-0F9D58-5844-nodesc-highlight"
+                },
+                "stroke": "#0f9d58",
+                "stroke-opacity": 1,
+                "stroke-width": 5.844
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.74718,
+                    42.281683,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stop",
+                "styleUrl": "#icon-1502-0097A7",
+                "styleHash": "6057b4d0",
+                "styleMapHash": {
+                    "normal": "#icon-1502-0097A7-normal",
+                    "highlight": "#icon-1502-0097A7-highlight"
+                },
+                "description": "courthouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -83.7404842,
+                        42.2626941,
+                        0
+                    ],
+                    [
+                        -83.7440113,
+                        42.2635953,
+                        0
+                    ],
+                    [
+                        -83.7441199,
+                        42.263375,
+                        0
+                    ],
+                    [
+                        -83.7439067,
+                        42.2633332,
+                        0
+                    ],
+                    [
+                        -83.743912,
+                        42.2632429,
+                        0
+                    ],
+                    [
+                        -83.7438852,
+                        42.2631705,
+                        0
+                    ],
+                    [
+                        -83.7437653,
+                        42.2630431,
+                        0
+                    ],
+                    [
+                        -83.7436151,
+                        42.2629875,
+                        0
+                    ],
+                    [
+                        -83.7434542,
+                        42.2629915,
+                        0
+                    ],
+                    [
+                        -83.7433388,
+                        42.2630511,
+                        0
+                    ],
+                    [
+                        -83.7432423,
+                        42.2631563,
+                        0
+                    ],
+                    [
+                        -83.7431242,
+                        42.2633726,
+                        0
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Gala Manual Approach",
+                "styleUrl": "#line-0288D1-5263-nodesc",
+                "styleHash": "2c97d573",
+                "styleMapHash": {
+                    "normal": "#line-0288D1-5263-nodesc-normal",
+                    "highlight": "#line-0288D1-5263-nodesc-highlight"
+                },
+                "stroke": "#0288d1",
+                "stroke-opacity": 1,
+                "stroke-width": 5.263
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.7457177,
+                    42.2863488,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "kyle's testing point",
+                "styleUrl": "#icon-1899-A52714",
+                "styleHash": "48ef713f",
+                "styleMapHash": {
+                    "normal": "#icon-1899-A52714-normal",
+                    "highlight": "#icon-1899-A52714-highlight"
+                },
+                "description": "do not remove or else your map will not be done"
+            }
+        }
+    ]
+}
