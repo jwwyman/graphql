@@ -1,0 +1,79 @@
+scalar JSON
+scalar XML
+
+type Team {
+    id: ID!
+    name: String
+    members: [User]
+}
+
+type User {
+    id: ID!
+    name: String
+    team: Team
+    credentials: [Credential]
+}
+
+type Certification {
+    id: ID!
+    name: String
+}
+
+type Credential {
+    id: ID!
+    user: User
+    certification: Certification
+    expiration: String
+}
+
+type Site {
+    siteId: ID!
+    name: String
+    routes: [Route]
+}
+
+type Route {
+    routeId: ID!
+    routeName: String
+    siteId: String
+    info: String
+    pathXML: XML
+    pathJSON: JSON
+}
+
+input SiteInput {
+    siteId: ID
+    siteName: String
+}
+
+input RouteInput {
+    routeId: ID
+    routeName: String
+    siteId: String
+    pathXML: XML
+    pathJSON: JSON
+}
+
+type Mutation {
+    createRoute(input: RouteInput): Route
+    createSite(input: SiteInput): Site
+    updateSite(id: ID!, siteName: String!): Site
+}
+
+type Query {
+    team(id: ID!): Team
+    teamByName(name: String!): [Team]
+    user(id: ID!): User
+    userByName(name: String!): [User]
+    certification(id: ID!): Certification
+    certificationByName(name: String!): [Certification]
+    allTeams: [Team]
+    allCertifications: [Certification]
+    allUsers: [User]
+    site(id: ID!): Site
+    allSites: [Site]
+    siteByName(name: String!): [Site]
+    route(routeId: ID!): Route
+    routeBySite(teamName: String!): Route
+    allRoutes: [Route]
+}
